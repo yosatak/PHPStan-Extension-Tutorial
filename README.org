@@ -1,0 +1,6 @@
+#+TITLE: var_dump()を検知してエラーを表示するPHPStanプラグイン作成チュートリアル
+#+AUTHOR: Yoshitaka Takeuchi
+
+** 注意
+このアプリケーションはPHPStanのオリジナル拡張の作りかた用のリポジトリです。
+このURLのチュートリアルを参考にしてください。

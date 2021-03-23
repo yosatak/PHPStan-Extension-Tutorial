@@ -1,0 +1,10 @@
+{
+    "name": "yosh/phpstan-var_dump-extension-demo",
+    "authors": [
+        {
+            "name": "TAKEUCHI yoshtiaka",
+            "email": "yosh@baud.jp"
+        }
+    ],
+    "require": {}
+}
