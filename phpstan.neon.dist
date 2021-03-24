@@ -1,3 +1,5 @@
+rules:
+  - PHPStanOriginalExtension\LeftDebugScriptRule
 parameters:
   level: max
   paths:
