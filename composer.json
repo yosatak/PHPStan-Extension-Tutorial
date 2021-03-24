@@ -6,5 +6,7 @@
             "email": "yosh@baud.jp"
         }
     ],
-    "require": {}
+    "require": {
+        "phpstan/phpstan": "^0.12.82"
+    }
 }
