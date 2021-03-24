@@ -38,6 +38,6 @@ class LeftDebugScriptRule implements Rule
             return [];
         }
 
-        return ["var_dumpの消し忘れがあります"];
+        return ["var_dump: argument type => {$scope->getType($node->args[0]->value)->describe(\PHPStan\Type\VerbosityLevel::value())}"];
     }
 }
